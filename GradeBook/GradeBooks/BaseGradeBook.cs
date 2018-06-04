@@ -123,7 +123,7 @@ namespace GradeBook.GradeBooks
                 case 'D':
                     gpa = 1;
                     break;
-                case 'F';
+                case 'F':
                     gpa = 0;
                     break;
             }
