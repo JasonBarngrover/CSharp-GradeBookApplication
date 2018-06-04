@@ -59,7 +59,7 @@ namespace GradeBook.UserInterfaces
             GradeBook.Save();
             Console.WriteLine("{0} has been saved.", GradeBook.Name);
         }
-        
+
         public static void AddGradeCommand(string command)
         {
             var parts = command.Split(' ');
